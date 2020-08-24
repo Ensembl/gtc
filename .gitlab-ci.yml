@@ -1,0 +1,35 @@
+# Author , Ravi Mahankali
+# ravikm@ebi.ac.uk
+
+image: docker:latest
+
+stages:
+  - build
+  - deploy
+
+services:
+  - docker:dind
+  
+variables:
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+
+
+build-master:
+  stage: build
+  script:
+     - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN $CI_REGISTRY
+     - docker build --pull --rm=true -t $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA .
+     - docker push $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+  after_script:
+      - docker logout ${CI_REGISTRY}
+  only:
+    - master
+
+hh-production:
+  stage: deploy
+  script:
+     - sed -i "s|TAG|$CI_COMMIT_SHA|g" k8s-deployment.yml
+     - export KUBECONFIG=/home/gitlab-runner/.kube/hh-wp-webadmin-01-team-admin &&  kubectl apply -f k8s-deployment.yml
+  only:
+    - master
