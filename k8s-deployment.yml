@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gtc-landing-page
+  namespace: gtc-static
+spec:
+  selector:
+    matchLabels:
+      app: gtc-landing-page
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: gtc-landing-page
+    spec:
+      containers:
+      - name: gtc-landing-page
+        image: dockerhub.ebi.ac.uk/ravikm/kite-deployer/master:TAG
+        ports:
+        - containerPort: 8000
+      imagePullSecrets:
+      - name: regcred
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: gtc-landing-page
+  namespace: gtc-static
+spec:
+  selector:
+    app: gtc-landing-page
+  ports:
+  - protocol: TCP
+    port: 8000
+    targetPort: 8000
+  type: NodePort
