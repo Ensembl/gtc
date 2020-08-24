@@ -5,6 +5,12 @@ ARG USERNAME***REMOVED***
 ARG USER_UID***REMOVED***
 ARG USER_GID=$USER_UID
 
+#Setting Proxies
+ARG HTTP_PROXY***REMOVED***
+ARG HTTPS_PROXY***REMOVED***
+ARG http_proxy***REMOVED***
+ARG https_proxy***REMOVED***
+
 # Create the user
 RUN groupadd --gid $USER_GID $USERNAME \
     && useradd --uid $USER_UID --gid $USER_GID -m $USERNAME \
