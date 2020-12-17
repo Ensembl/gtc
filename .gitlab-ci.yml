@@ -18,7 +18,7 @@ build-du-test_docker_build:
   stage: build
   script:
      - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN $CI_REGISTRY
-     - docker build --pull --rm=true --build-arg HTTP_PROXY=$HTTP_PROXY -t $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA .
+     - docker build --pull --rm=true --build-arg HTTP_PROXY=$HTTP_PROXY --build-arg USERNAME=$USERNAME --build-arg USER_UID=$USER_UID -t $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA .
      - docker push $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
   after_script:
       - docker logout ${CI_REGISTRY}
