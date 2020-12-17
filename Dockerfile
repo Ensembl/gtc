@@ -5,7 +5,6 @@ EXPOSE 8000/tcp
 ARG USER_GID=$USER_UID
 
 #Setting Proxies
-RUN echo $HTTP_PROXY
 ARG HTTPS_PROXY=$HTTP_PROXY
 ARG http_proxy=$HTTP_PROXY
 ARG https_proxy=$HTTP_PROXY
