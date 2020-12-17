@@ -7,9 +7,10 @@ ARG USER_GID=$USER_UID
 
 #Setting Proxies
 ARG HTTP_PROXY***REMOVED***
-ARG HTTPS_PROXY***REMOVED***
-ARG http_proxy***REMOVED***
-ARG https_proxy***REMOVED***
+ARG HTTPS_PROXY=$HTTP_PROXY
+ARG http_proxy=$HTTP_PROXY
+ARG https_proxy=$HTTP_PROXY
+
 
 # Create the user
 RUN groupadd --gid $USER_GID $USERNAME \
