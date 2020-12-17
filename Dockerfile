@@ -2,12 +2,15 @@ FROM ubuntu
 EXPOSE 8000/tcp
 
 # USERNAME, USER_UID and HTTP_PROXY must be specify with --build-args
+ARG USER_UID
+ARG USERNAME
 ARG USER_GID=$USER_UID
 RUN echo $USER_GID 
 RUN echo $USERNAME
 
 
 #Setting Proxies
+ARG HTTP
 ARG HTTPS_PROXY=$HTTP_PROXY
 ARG http_proxy=$HTTP_PROXY
 ARG https_proxy=$HTTP_PROXY
