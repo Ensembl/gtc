@@ -5,16 +5,13 @@ EXPOSE 8000/tcp
 ARG USER_UID
 ARG USERNAME
 ARG USER_GID=$USER_UID
-RUN echo $USER_GID 
-RUN echo $USERNAME
 
 
 #Setting Proxies
-ARG HTTP
+ARG HTTP_PROXY
 ARG HTTPS_PROXY=$HTTP_PROXY
 ARG http_proxy=$HTTP_PROXY
 ARG https_proxy=$HTTP_PROXY
-RUN echo $HTTP_PROXY
 
 # Create the user
 RUN groupadd --gid $USER_GID $USERNAME \
