@@ -1,0 +1,314 @@
+pmid	archive	library	genes	enzyme	assay	biosample	organism
+24535568	European Nucleotide Archive	GeCKO v2	1700016K19Rik|B4galt7|Cstf3|Defa41|Dpm1|Dpm2|Dpm3|Ext2|Gpaa1|Letmd1|Lypla1|Mlh1|Msh2|Msh6|Pgap2|Piga|Pigb|Pigc|Pigf|Pigg|Pigh|Pigk|Pigl|Pigm|Pign|Pigo|Pigp|Pigq|Pigs|Pigt|Pigu|Pigv|Pigw|Pigx|Pms2|Prkg1|Pyurf|Trpc2	SpCas9	Knockout by NHEJ – proliferation|Knockout by NHEJ – single genomic target	Embryonic Stem Cell	Mus musculus
+26048245	NCBI BioProject	NULL	cav1|cav3|cdh2|cdh23|chrd|coch|col11a2|crym|ctnnb1|cx30.3|cx35.4|espn|espnlb|eya4|fgf24|fndc7rs1|fut8a|gpsm2|grhl2a|grhl2b|GSDME|gsdmeb|hgfa|hgfb|hif1ab|hspa5|hspe1|hyou1|igf2bp2b|igfbp7|ildr1a|ildr1b|junba|junbb|kars1|krt15|lhfpl5a|loxhd1a|loxhd1b|man1a1|man1b1a|man2a1|man2b1|marveld2a|marveld2b|mgat1b|mgat2|mgat3a|mgat4a|mgat4b|mgat4c|mgat5|msrb3|myh9a|myh9b|myo15aa|myo15ab|myo3a|myo6a|myo7aa|oga|ogt.1|pcdh15b|pou4f3|prdx2|prdx3|prdx4|prps1a|prps1b|ptprn2|ptprna|ptprnb|ptprq|sesn1|sh3pxd2aa|si:ch211-214j24.10-201|slc26a4|slc26a5|smpx|tecta|tjp2a|tjp2b|TMC1|tmie|tmprss3a|tyr|ush1c|wfs1b|zgc:77486	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+26165496	Gene Expression Omnibus	GeCKO v2	NULL	Cas9	Knockout by NHEJ – proliferation	S2R+	Drosophila melanogaster
+27329339	NULL	NULL	Casp1|Gsdmd	Cas9	Knockout by NHEJ – single genomic target	bone marrow-derived macrophage	Mus musculus
+27539542	NULL	NULL	CDKN2B-AS1	Cas9	Dual sgRNA-directed deletion	HEK293	Homo sapiens
+28179149	NULL	NULL	matrilineal1	Cas9	Knockout by NHEJ – single genomic target	plant embryo|Protoplast	Zea mays
+28235822	NULL	NULL	SP-NAN2	Cas9-FLAG-NLS	Knockout by NHEJ – single genomic target	embryo	Strongylocentrotus purpuratus
+28418037	NULL	NULL	IFNAR1|IFNAR2|UQCC3	Cas9	Knockout by NHEJ – single genomic target	HEK293|HepG2|Vero cell	Chlorocebus sabaeus|Homo sapiens
+28695888	NULL	NULL	Bcan|Egfr|Fgfr3|Gga2|Ntrk1|Prkcb|Sec61g|Tacc3	SpCas9	Knockout by NHEJ – single genomic target	Neural Stem Cell|NIH-3T3 cell|obsolete_C57BL/6|primary cell line|Whole Organism	Mus musculus
+28741620	NULL	NULL	SHANK3	SpCas9	Dual sgRNA-directed deletion	embryo	Macaca fascicularis
+28976960	Gene Expression Omnibus	GeCKO v2	FOSL1|JUN|JUNB|MAP2K1|MAP2K2|MAPK1|MAPK3	Cas9	Knockout by NHEJ – proliferation|Knockout by NHEJ – single genomic target	451Lu cell|A101D|A375|HCC827|Mel888 cell	Homo sapiens
+29021563	Gene Expression Omnibus	NULL	BAZ1A|BAZ1B	SpCas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+29045453	NULL	NULL	APZ42_020993	SpCas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	germ cell	Daphnia magna str. Xinb3
+29180469	NULL	NULL	SHMT2|SIRT5	Cas9	Knockout by NHEJ – single genomic target	HCT116|U2OS	Homo sapiens
+29191977	NULL	NULL	brat|zld	Cas9	Insertion by HDR/MMEJ	embryo	Drosophila melanogaster
+29440227	NULL	NULL	Cfl1	pSpCas9	Dual sgRNA-directed deletion	Neuro-2a cell	Mus musculus
+29579237	NULL	NULL	GBA	pSpCas9	Knockout by NHEJ – single genomic target	HEK-293FT cell	Homo sapiens
+29618812	NULL	NULL	CLE25	Cas9	Knockout by NHEJ – single genomic target	Col-0|Flower	Arabidopsis thaliana
+29632068	NULL	NULL	CERS2	pSpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+29661912	NULL	NULL	KIF18B	SpCas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+29679004	NULL	NULL	LINC01138	Cas9|dCas9-VP64	Knockout by NHEJ – single genomic target|Transcriptional activation	HuH-7|SMMC-7721 cell|SNU-449 cell	Homo sapiens
+29706504	NULL	NULL	IMPDH2	Cas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+29707204	NULL	NULL	Zbtb32	Cas9n	Dual sgRNA-directed deletion	NOD mouse|zygote	Mus musculus
+29851245	NULL	NULL	PIP5K1A	Cas9	Knockout by NHEJ – single genomic target	MCF 10A|MDAMB231|NCI-N87|SKBR3	Homo sapiens
+29976933	NULL	NULL	OVA	hCas9	Insertion by HDR/MMEJ	Primordial Germ Cell	Gallus gallus
+29996108	Gene Expression Omnibus	GeCKO v2	Apc|Depdc5|Hgs|Kcmf1|Nelfb|Nelfcd|Nprl2|Pggt1b|Pou5f1|Ptpn23|Rictor|Stat3|Tcf7l1|Tsc1|Tsc2|Vps25|Vps39|Zfp219|Znrf3	Cas9	Knockout by NHEJ – differentiation|Knockout by NHEJ – proliferation|Knockout by NHEJ – single genomic target	mouse embryonic stem cell	Mus musculus
+30033366	Gene Expression Omnibus	GeCKO v2	CACTIN|CDC40|DMAC1|FDFT1|FDPS|GGPS1|HMGCR|HMGCS1|HUS1|IDI1|MVD|MVK|NDUFA8|NDUFB4|PGK1|PMVK|POLD1|POLD3|PPIE|PRPF18|SNRPB|SNRPC|SQLE|SREBF2|ZNF830	dCas9-KRAB	Transcriptional inhibition	Jurkat|K562	Homo sapiens
+30076291	NULL	NULL	caspb	pSpCas9	Knockout by NHEJ – single genomic target	ZF4	Danio rerio
+30081040	NULL	NULL	LF65_01289|LF65_01851	AsCpf1	Knockout by NHEJ – single genomic target	Whole Organism	Clostridium beijerinckii
+30082728	Gene Expression Omnibus	GeCKO v2	TRPS1	Cas9|Cas9n	Knockout by NHEJ – Fluorescence|Knockout by NHEJ – single genomic target	MCF 10A|MCF-7	Homo sapiens
+30088035	NULL	NULL	STIM1	Cas9n (D10A)	Knockout by NHEJ – single genomic target	SH-SY5Y	Homo sapiens
+30102814	NULL	NULL	ATGLCAK	Cas9	Knockout by NHEJ – single genomic target	Col-0|Flower	Arabidopsis thaliana
+30102978	NULL	NULL	SOX9	SpCas9	Knockout by NHEJ – single genomic target	OE19|OE33	Homo sapiens
+30110323	NULL	NULL	FMRFaR	Cas9	Knockout by NHEJ – single genomic target	embryo	Drosophila melanogaster
+30135069	NULL	NULL	npc1	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30147834	NULL	NULL	AHR	Cas9	Knockout by NHEJ – single genomic target	HepaRG	Homo sapiens
+30150771	NULL	NULL	PF3D7_1116800	Cas9	Insertion by HDR	Whole Organism	Plasmodium falciparum NF54
+30166439	NULL	NULL	DMD	Cas9	Knockin by NHEJ – single genomic target	Whole Organism	Canis lupus familiaris
+30170115	NULL	NULL	Abcb11|Asl|Gclc|Gss|Hpd|Por|Ugdh|Ugt1a1	SpCas9	Knockout by NHEJ – single genomic target	Whole Organism	Mus musculus
+30177768	NULL	NULL	wcaF	dCas9	Transcriptional inhibition	Whole Organism	Escherichia coli str. K-12 substr. MG1655
+30182054	NULL	NULL	Nf1	Cas9	Knockout by NHEJ – single genomic target	zygote	Rattus norvegicus
+30185230	NULL	NULL	Trem2	Cas9	Insertion by HDR/MMEJ	C57BL/6N Mouse|zygote	Mus musculus
+30185526	NULL	NULL	Rsph6a	hCas9	Knockout by NHEJ – single genomic target	zygote	Mus musculus
+30188893	NULL	NULL	Arl6ip5|C6|Ces3b|Cpn1|Itgb6|Plcb4|Sntg1	hCas9	Knockout by NHEJ – single genomic target	C57BL/6J|Embryonic Stem Cell|zygote	Mus musculus
+30195795	NULL	NULL	DROSHA	SpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+30197754	NULL	NULL	ITGA2	Cas9	Knockout by NHEJ – single genomic target	DU 145	Homo sapiens
+30198089	NULL	NULL	REX4|TRM10	FnCpf1	Dual sgRNA-directed deletion	BY4741|SK-MEL-28	Saccharomyces cerevisiae
+30201688	NULL	NULL	MSTN	Cas9	Dual sgRNA-directed deletion	embryo	Capra hircus
+30202008	European Nucleotide Archive	GeCKO v2	NULL	Cas9|dCas9-VP64	Knockout by NHEJ – proliferation|Transcriptional activation	Caco-2|COLO320DM|GP5d	Homo sapiens
+30206189	NULL	NULL	USP47|USP7	Cas9	Knockout by NHEJ – single genomic target	THP-1	Homo sapiens
+30206203	NULL	NULL	WRN	Cas9	Knockout by NHEJ – single genomic target	H9	Homo sapiens
+30208326	NULL	NULL	Lrp1	Cas9	Insertion by HDR/MMEJ	RAW264.7	Mus musculus
+30209135	NULL	NULL	Cmtm1|Cmtm2a|Cmtm2b	Cas9	Knockout by NHEJ – single genomic target	embryo	Mus musculus
+30210230	NULL	NULL	rho	Cas9	Knockout by NHEJ – single genomic target	AB Zebrafish|embryo	Danio rerio
+30213958	NULL	NULL	Myrf	Cas9	Knockout by NHEJ – single genomic target	embryonic fibroblast	Mus musculus
+30217225	NULL	NULL	Tcf12	Cas9	Dual sgRNA-directed deletion	oocyte	Mus musculus
+30231914	NCBI Sequence Read Archive	NULL	Gt(ROSA)26Sor|Hpd|Pcsk9	Neisseria meningitidis Cas9 	Knockout by NHEJ – single genomic target	HEPA 1-6 cell|obsolete_C57BL/6|Whole Organism	Mus musculus
+30233643	NULL	NULL	Kdm2	Humanised Cas9	Dual sgRNA-directed deletion|Insertion by HDR/MMEJ	embryo	Drosophila melanogaster
+30241032	NULL	NULL	MSTN	hSpCas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+30245698	NULL	NULL	male sterile8	Zea mays optimised SpCas9-NLS	Knockout by NHEJ – single genomic target	plant embryo	Zea mays
+30251682	NULL	NULL	OAT	Cas9	Knockout by NHEJ – single genomic target	HEK293	Homo sapiens
+30252954	NULL	NULL	LRRC8A	SpCas9-NLS-T2A-Orange fluorescent protein	Knockout by NHEJ – single genomic target	HaCaT|NHEK	Homo sapiens
+30257933	NULL	NULL	dpy-10|rap-1	Cas9	Insertion by HDR/MMEJ	N2|Whole Organism	Caenorhabditis elegans
+30262143	NULL	NULL	LMX1A	Cas9	Knockout by NHEJ – single genomic target	AGS	Homo sapiens
+30262668	NULL	NULL	UGT2B15|UGT2B17	Cas9	Knockout by NHEJ – single genomic target	LNCAP	Homo sapiens
+30264483	NULL	NULL	ZIC1	Cas9	Knockout by NHEJ – single genomic target	U-87 MG	Homo sapiens
+30273830	NULL	NULL	Fus	Cas9	Insertion by HDR/MMEJ	Sprague Dawley|zygote	Rattus norvegicus
+30275281	NULL	NULL	Atoh1|Otof|Slc17a8|Slc26a5|Tyr	Base editor 3 (BE3)	Base editing (DNA)	obsolete_C57BL/6|zygote	Mus musculus
+30275317	Journal website	GeCKO v2	PDGFRA|PDGFRB	Cas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	foreskin fibroblast|primary cell line	Homo sapiens
+30279146	NULL	NULL	HSPB1	Cas9	Knockout by NHEJ – single genomic target	HepG2	Homo sapiens
+30279242	NULL	NULL	HERC2	hSpCas9	Knockout by NHEJ – single genomic target	HCT116	Homo sapiens
+30281416	NULL	NULL	ush2a	Cas9|Cas9n	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryo|Tupfel Long Fin Zebrafish	Danio rerio
+30286211	NULL	NULL	IFIH1	Cas9	Knockout by NHEJ – single genomic target	Natural Killer Cell|primary cell line	Homo sapiens
+30291237	NULL	NULL	Green fluorescent protein|Nlrp3	Cas9	Knockout by NHEJ – single genomic target	bone marrow-derived macrophage|obsolete_C57BL/6|RAW264.7|Whole Organism	Mus musculus
+30294598	NULL	NULL	cnga2a|cnga2b|oxt	Cas9	Dual sgRNA-directed deletion|Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30301924	NULL	NULL	Bcl2l11	SpCas9	Insertion by HDR/MMEJ	C57BL/6NJ|zygote	Mus musculus
+30305304	NULL	NULL	APOE	hSpCas9	Knockout by NHEJ – single genomic target	fibroblast|primary cell line	Sus scrofa
+30305734	NULL	NULL	Dcx	Cas9	Knockout by NHEJ – single genomic target	Embryonic Stem Cell	Mus musculus
+30309895	NULL	NULL	CH25H|NR1H2|NR1H3|SULT2B1	pSpCas9	Knockout by NHEJ – single genomic target	HepG2	Homo sapiens
+30310528	NULL	NULL	MPV17L	Cas9	Knockout by NHEJ – single genomic target	HepG2	Homo sapiens
+30310734	NCBI BioProject	NULL	Phatr3_J46193	Cas9	Knockout by NHEJ – single genomic target	Whole Organism	Phaeodactylum tricornutum CCAP 1055/1
+30312667	NULL	NULL	Acox1	Cas9	Insertion by HDR/MMEJ	BV-2 cell	Mus musculus
+30318119	NULL	NULL	NINJ2	Cas9	Knockout by NHEJ – single genomic target	SH-SY5Y	Homo sapiens
+30320547	NULL	NULL	WDR34|WDR60	pSpCas9	Knockout by NHEJ – single genomic target	hTERT-RPE1 cell	Homo sapiens
+30323019	NULL	NULL	neurod2	Cas9	Knockout by NHEJ – single genomic target	embryo	Xenopus tropicalis
+30327661	NULL	NULL	AT2G20400	Cas9	Knockout by NHEJ – single genomic target	Col-0|Flower	Arabidopsis thaliana
+30333512	NULL	NULL	TM9SF2	Cas9	Knockout by NHEJ – single genomic target	HCT116|HT-29	Homo sapiens
+30335949	NULL	NULL	ACTB|TP53	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	HEK293	Homo sapiens
+30337365	NULL	NULL	ZEB1	iCas9	Knockout by NHEJ – single genomic target	H9|HEK293T	Homo sapiens
+30337470	NULL	NULL	Ikbkb	SpCas9	Insertion by HDR/MMEJ	zygote	Mus musculus
+30337622	NULL	NULL	smarce1	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30340581	NULL	NULL	CCR5	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	HEK293T|HeLa	Homo sapiens
+30355756	NULL	NULL	abcc9|kcnj8|pln	nCas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30356064	NULL	NULL	Nhej1	Cas9	Knockout by NHEJ – single genomic target	C57BL/6J|embryo	Mus musculus
+30361258	NULL	NULL	daf-18	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	N2|Whole Organism	Caenorhabditis elegans
+30366904	Gene Expression Omnibus	NULL	bcl9|bcl9l|pygo1|pygo2	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30368519	NULL	NULL	Dicer1	SpCas9	Insertion by HDR/MMEJ	embryo	Mus musculus
+30368976	NULL	NULL	PDX1	Cas9	Knockout by NHEJ – single genomic target	zygote	Sus scrofa
+30369533	NULL	NULL	Mafb	hSpCas9	Insertion by HDR/MMEJ	C57BL/6J|embryo	Mus musculus
+30372441	NULL	NULL	Hdac9	hSpCas9	Dual sgRNA-directed deletion	embryo	Mus musculus
+30375401	NULL	NULL	Chdh|Ehd1	Cas9|Cas9n	Insertion by HDR/MMEJ	C57BL/6N Mouse|Neuro-2a cell|PC12|zygote	Mus musculus|Rattus norvegicus
+30375470	NULL	NULL	ARNTL|CRY1|CRY2	Cas9	Knockout by NHEJ – single genomic target	MCF 10A|MDAMB231	Homo sapiens
+30375740	NULL	NULL	Mab21l2	Cas9n (D10A)	Insertion by HDR/MMEJ	zygote	Mus musculus
+30381865	NULL	NULL	Megf6	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryo	Mus musculus
+30383747	NULL	NULL	hb	Cas9	Insertion by HDR/MMEJ	embryo	Drosophila melanogaster
+30385710	NULL	NULL	gldc	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30391674	NULL	NULL	HIF1A	pSpCas9	Knockout by NHEJ – single genomic target	A549	Homo sapiens
+30391781	NULL	NULL	CLDN1|CSMD3|FGFR2|GRM1|GRM8|PIK3CA|PIK3CG|RIT1|ZFHX4	dCas9-VP64|pSpCas9|SaCas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target|Transcriptional activation	293T|EBC-1|Patient Derived Xenograft|SKMES1|squamous cell lung carcinoma	Homo sapiens
+30391850	NULL	NULL	AURKB|KRAS|MELK|MYC|PLK1	Cas9	Knockout by NHEJ – single genomic target	MDAMB231|MDAMB468	Homo sapiens
+30393033	NULL	NULL	Cyfip1|Cyfip2|Rac1|Rac2|Rac3	pSpCas9	Knockout by NHEJ – single genomic target	B16-F1 cell	Mus musculus
+30398641	NULL	NULL	EWSR1|FUS|MATR3|TAF15	hCas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+30403997	NULL	NULL	Phf6	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	NIH-3T3 cell|zygote	Mus musculus
+30408270	NULL	NULL	CBS	pSpCas9	Insertion by HDR/MMEJ	HEK293T|HepG2	Homo sapiens
+30408464	NULL	NULL	PLEKHA8	Cas9	Knockout by NHEJ – single genomic target	RKO|SW620	Homo sapiens
+30411440	NULL	NULL	kif15	Cas9	Knockout by NHEJ – single genomic target	AB Zebrafish|embryo	Danio rerio
+30423318	NULL	NULL	TRPC1	Cas9	Knockin by NHEJ – single genomic target	H9	Homo sapiens
+30425074	NULL	NULL	CTNNB1|LEF1|TCF7|TCF7L1|TCF7L2	pSpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+30428046	NULL	NULL	dguok	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30429198	NULL	NULL	FLI1	Cas9	Knockout by NHEJ – single genomic target	NCI-H446	Homo sapiens
+30443021	NULL	NULL	PGRMC1|TMEM97	Cas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+30443311	NULL	NULL	QPRT	pSpCas9	Knockout by NHEJ – single genomic target	SH-SY5Y	Homo sapiens
+30445545	NULL	NULL	Frmpd1	SpCas9	Dual sgRNA-directed deletion	C57BL/6J|zygote	Mus musculus
+30446691	NULL	NULL	ALPL	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryo|fibroblast|primary cell line|Rambouillet	Ovis aries
+30464460	NULL	NULL	Cd274	pSpCas9	Knockout by NHEJ – single genomic target	CT26.WT cell	Mus musculus
+30465020	NULL	NULL	SLC9A8	Cas9	Knockout by NHEJ – single genomic target	HT-29	Homo sapiens
+30466404	NULL	NULL	GALNT3	pSpCas9	Knockout by NHEJ – single genomic target	Capan1	Homo sapiens
+30467308	NULL	NULL	ETS1	Cas9	Dual sgRNA-directed deletion	HEK293T|MDAMB231	Homo sapiens
+30471466	NULL	NULL	ADORA2B	Cas9	Insertion by HDR/MMEJ	HEK293	Homo sapiens
+30576352	NULL	NULL	tyn	Cas9	Knockout by NHEJ – single genomic target	embryo	Drosophila melanogaster
+30588241	NULL	NULL	MTF1	Cas9n	Knockout by NHEJ – single genomic target	OVCAR3|SKOV3	Homo sapiens
+30590050	NULL	NULL	Kcnh6	Cas9	Insertion by HDR/MMEJ	C57BL/6N Mouse|zygote	Mus musculus
+30590588	NULL	NULL	ZEB2	pSpCas9	Dual sgRNA-directed deletion	HEK293	Homo sapiens
+30591527	NULL	NULL	ptprja	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30593505	NULL	NULL	TDP2	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	293T|A549|U2OS	Homo sapiens
+30594530	NULL	NULL	nfe2l2a	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30595385	NULL	NULL	Gpr137b	pSpCas9	Knockout by NHEJ – single genomic target	RAW264.7	Mus musculus
+30595499	Gene Expression Omnibus	GeCKO v2	Apc|Depdc5|Eed|Erlin1|Flcn|Grb2|Lamtor1|Lamtor2|Lamtor4|Lamtor5|Ptbp3|Ptpn11|Rragc|Socs3|Tcf7l1|Tfe3|Tmem127|Trp53|Tsc1|Tsc2|Wdr24	Cas9|hCas9	Knockout by NHEJ – differentiation|Knockout by NHEJ – single genomic target	Embryonic Stem Cell	Mus musculus
+30599162	NULL	NULL	PDCD6IP	pSpCas9	Knockout by NHEJ – single genomic target	293T/17 cell	Homo sapiens
+30602124	NULL	NULL	Atf6	hSpCas9	Knockout by NHEJ – single genomic target	C2C12	Mus musculus
+30603655	NULL	NULL	CD46	pSpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+30603685	NULL	NULL	CD274	Cas9	Knockout by NHEJ – single genomic target	786-0|A549|MDAMB231	Homo sapiens
+30609410	NULL	NULL	ncapg2	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30610007	NULL	NULL	ADAM17	eSpCas9|SpCas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	H9	Homo sapiens
+30610166	NULL	NULL	Solyc01g096050.3|Solyc05g050560.1 	Cas9	Knockout by NHEJ – single genomic target	cotyledon	Solanum lycopersicum
+30610186	NULL	NULL	PTCH1	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	H9|HEK293T	Homo sapiens
+30616506	NULL	NULL	Cmah	Cas9	Knockout by NHEJ – single genomic target	embryo	Mus musculus
+30622326	NULL	NULL	ints1	Cas9	Knockout by NHEJ – single genomic target	zygote	Danio rerio
+30622340	NULL	NULL	SOX9	Cas9n	Dual sgRNA-directed deletion	MCF-7|MDAMB231	Homo sapiens
+30623494	NULL	NULL	SIX1|SIX4	hSpCas9	Knockout by NHEJ – single genomic target	fetal cell line|primary cultured fibroblast cell|RCB0534 cell	Sus scrofa
+30626681	NULL	NULL	KCNN4|LAMP1	Cas9	Knockout by NHEJ – single genomic target	A549|HeLa	Homo sapiens
+30628160	NULL	NULL	Zbtb16	Cas9	Insertion by HDR/MMEJ	C57BL/6NJ|zygote	Mus musculus
+30629682	NULL	NULL	Caap1	Cas9	Dual sgRNA-directed deletion	zygote	Mus musculus
+30634993	NULL	NULL	HMOX1	Cas9	Knockout by NHEJ – single genomic target	A375	Homo sapiens
+30635443	NULL	NULL	CDC25A|CHEK1	SaCas9	Insertion by HDR/MMEJ	HCT116	Homo sapiens
+30637914	NULL	NULL	C1GALT1C1	Cas9	Knockout by NHEJ – single genomic target	HCT116|SW480	Homo sapiens
+30643696	NULL	NULL	hdac4	nCas9n	Knockout by NHEJ – single genomic target	AB Zebrafish|embryo	Danio rerio
+30652405	NULL	NULL	Solyc11g030600.3	Cas9	Knockout by NHEJ – single genomic target	cotyledon	Solanum lycopersicum
+30653942	NULL	NULL	HMOX1	pSpCas9	Knockout by NHEJ – single genomic target	Capan1	Homo sapiens
+30654190	NULL	NULL	PTEN|SERPINB5	hSp dCas9-VPR	Transcriptional activation	SK-MEL-28|SUM159PT	Homo sapiens
+30655525	Journal website	GeCKO v2	GNPTAB|NPC1	Cas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	HAP-1|Huh-7.5.1 cell	Homo sapiens
+30656721	NULL	NULL	NCSTN	hCas9	NHEJ and HDR/MMEJ	HEK293	Homo sapiens
+30658189	NULL	NULL	UBE2G2|UBE2J1|UBE2J2	Cas9	Knockout by NHEJ – single genomic target	HAP-1|HEK293T	Homo sapiens
+30659021	NULL	NULL	LAMA4|LAMB1	Cas9	Knockout by NHEJ – single genomic target	glioblastoma multiforme|LN-229|primary cell line|U-87 MG	Homo sapiens
+30659093	NULL	NULL	ITGA3	pSpCas9	Knockout by NHEJ – single genomic target	HeLa|MDAMB231	Homo sapiens
+30662438	NULL	NULL	TBK1	Cas9	Knockout by NHEJ – single genomic target	CEF cell|UMNSAH/DF-1 cell	Gallus gallus
+30669298	NULL	NULL	PGSC0003DMG400034102|Solyc07g061940.3	dCas9-PmCDA1|dCas9-PmCDA2	Base editing (DNA)	cotyledon|stem	Solanum lycopersicum|Solanum tuberosum
+30669676	NULL	NULL	HDAC1|HDAC2	Cas9	Knockin by NHEJ – single genomic target	SW579 cell	Homo sapiens
+30670178	NULL	NULL	CFTR	pSpCas9	Insertion by HDR/MMEJ	HL-60	Homo sapiens
+30671114	NULL	NULL	Cdkn1b	Cas9	Knockout by NHEJ – single genomic target	embryo	Mus musculus
+30671116	NULL	NULL	Plac8	Cas9	Knockout by NHEJ – single genomic target	C57BL/6J|embryo	Mus musculus
+30682176	NULL	NULL	Gnao1	SpCas9	Insertion by HDR/MMEJ	zygote	Mus musculus
+30683662	NULL	NULL	Ctnnb1	Cas9	Knockout by NHEJ – single genomic target	myoblast|primary cell line	Mus musculus
+30684509	NULL	NULL	Bag3|Camk2a|Glrb|Slc39a6|Tbx6|Tyr	HiFi Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	C57BL/6J|zygote	Mus musculus
+30684694	NULL	NULL	B3GAT3|B4GALT7|SLC35B2	Cas9	Knockout by NHEJ – single genomic target	A549	Homo sapiens
+30690039	NULL	NULL	RUNX1	Cas9	Knockin by NHEJ – single genomic target	Jurkat|K562|MOLM-13 cell|TF-1 cell	Homo sapiens
+30700983	NULL	NULL	ITGB1	Cas9	Knockout by NHEJ – single genomic target	Caco-2	Homo sapiens
+30706248	NULL	NULL	DEP1	Cas9	Knockout by NHEJ – single genomic target	Oryza sativa cv. Nipponbare|plant embryo	Oryza sativa Japonica Group
+30707741	NULL	NULL	Mir741|Mir871|Mir880	Cas9	Dual sgRNA-directed deletion|Knockout by NHEJ – single genomic target	zygote	Mus musculus
+30713102	NULL	NULL	OXTR|oxytocin receptor	Cas9	Knockout by NHEJ – single genomic target	HEK293T|zygote	Homo sapiens|Microtus ochrogaster
+30714208	NULL	NULL	Fam83h	Cas9n (D10A)	Knockout by NHEJ – single genomic target	NMRI Mouse|zygote	Mus musculus
+30715179	NULL	NULL	map11	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30719031	NULL	NULL	Fto	Cas9	Knockout by NHEJ – single genomic target	GC-1 spg cell	Mus musculus
+30723396	NULL	NULL	Nfasc	Cas9	Knockout by NHEJ – single genomic target	hippocampal neuron|primary cell line	Rattus norvegicus
+30723467	NULL	NULL	MLANA	Cas9	Knockout by NHEJ – single genomic target	SK-MEL-30	Homo sapiens
+30723918	NULL	NULL	BRD4|CDK7|EP300|MED1|PRPSAP1|SPHK1	Cas9|dCas9-KRAB	Knockout by NHEJ – single genomic target|Transcriptional inhibition	HepG2|HuH-7	Homo sapiens
+30734978	Journal website	GeCKO v2	SQLE	Cas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	U937	Homo sapiens
+30741440	NULL	NULL	GRIN3A	pSpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+30742839	NULL	NULL	Gch1	Cas9	Insertion by HDR/MMEJ	obsolete_C57BL/6|zygote	Mus musculus
+30742890	NULL	NULL	csf3r	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30765249	NULL	NULL	Fabp7	hSpCas9 (D10A)	Knockin by NHEJ – single genomic target	C57BL/6NJ|zygote	Mus musculus
+30769094	NULL	NULL	Abcd1|Abcd2	Cas9	Knockout by NHEJ – single genomic target	BV-2 cell	Mus musculus
+30770867	NULL	NULL	PINK1	SpCas9	Knockout by NHEJ – single genomic target	embryo	Macaca mulatta
+30773261	NULL	NULL	Emp2	eSpCas9	Knockout by NHEJ – single genomic target	ES-E14TG2a	Mus musculus
+30793048	NCBI Sequence Read Archive	NULL	Il2ra	Cas9	Dual sgRNA-directed deletion	zygote	Mus musculus
+30793514	NULL	NULL	Gata4	hSpCas9	Insertion by HDR/MMEJ	embryo	Mus musculus
+30795761	NULL	NULL	MUC16	Cas9	Knockout by NHEJ – single genomic target	HO-8910 cell	Homo sapiens
+30796047	NULL	NULL	Rnf146	Cas9	Knockout by NHEJ – single genomic target	embryo	Drosophila melanogaster
+30796197	NULL	NULL	ITPR3	Cas9	Knockout by NHEJ – single genomic target	DLD1	Homo sapiens
+30796637	NULL	NULL	TERF2IP	Cas9	Insertion by HDR/MMEJ	H9	Homo sapiens
+30800097	NULL	NULL	MKRN3	SpCas9	Dual sgRNA-directed deletion	H9	Homo sapiens
+30813944	NULL	NULL	bhlhe22|nkx6.1|prdm12b	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30815249	NULL	NULL	VAMP7	pSpCas9	Knockout by NHEJ – single genomic target	HeLa	Homo sapiens
+30816314	NULL	NULL	Izumo1	Cas9	Knockout by NHEJ – single genomic target	zygote	Mus musculus
+30824535	NULL	NULL	STIM1|STIM2	Cas9	Knockin by NHEJ – single genomic target	HCT116|HEK293	Homo sapiens
+30827034	NULL	NULL	DMP1	Cas9	Knockout by NHEJ – single genomic target	New Zealand White Rabbit|zygote	Oryctolagus cuniculus
+30830215	NULL	NULL	Polr3h	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	zygote	Mus musculus
+30833558	NULL	NULL	SIAH2	Cas9	Knockout by NHEJ – single genomic target	MDAMB231	Homo sapiens
+30842726	NULL	NULL	Iqsec2	Cas9	Insertion by HDR/MMEJ	C57BL/6J|embryo	Mus musculus
+30845965	NULL	NULL	ZBTB48	Cas9	Knockout by NHEJ – single genomic target	mesenchymal stromal cell|primary cell line	Sus scrofa
+30870143	NULL	NULL	Ppargc1a	Cas9	Knockout by NHEJ – single genomic target	mIMCD-3	Mus musculus
+30873542	NULL	NULL	PMEPA1	pSpCas9	Knockout by NHEJ – single genomic target	MDAMB231	Homo sapiens
+30894482	NULL	NULL	HGS|TSG101|VPS4B	Cas9	Insertion by HDR/MMEJ	hTERT-RPE1 cell	Homo sapiens
+30898719	NULL	NULL	Slc26a4	SaCas9	Dual sgRNA-directed deletion|Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryonic fibroblast|Neuro-2a cell|primary cell line	Mus musculus
+30899413	NULL	NULL	DOT1L	Cas9	Knockout by NHEJ – single genomic target	OVCAR3|OVCAR4	Homo sapiens
+30899591	NULL	NULL	AHR	Cas9	Knockout by NHEJ – single genomic target	SUM149PT	Homo sapiens
+30904337	NULL	NULL	NANOG	Cas9	Knockout by NHEJ – single genomic target	OVCAR3	Homo sapiens
+30905411	NULL	NULL	Plod2	Cas9	Knockout by NHEJ – single genomic target	zygote	Mus musculus
+30910913	NULL	NULL	AFG3L2	SpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+30916825	NULL	NULL	CAV1	Cas9	Knockout by NHEJ – single genomic target	primary cultured cell|trabecular meshwork	Homo sapiens
+30917865	NULL	NULL	TET2	Cas9-GFP	Knockout by NHEJ – single genomic target	RWPE1	Homo sapiens
+30927342	NULL	NULL	CLPSL2|Epp13|GLB1L2|Gm1110|PATE1|PATE2|RNASE13	Cas9	Dual sgRNA-directed deletion|Knockout by NHEJ – single genomic target	zygote	Mus musculus
+30951722	NULL	NULL	adamts9	Cas9	Knockout by NHEJ – single genomic target	embryo|Tubingen Zebrafish	Danio rerio
+30962569	NCBI Sequence Read Archive	GeCKO v2	BA894_04220|BA894_13380|GFP	dCas9|SpCas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	Whole Organism	Vibrio natriegens
+30968393	NULL	NULL	vwf	nCas9n	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+30981084	NULL	NULL	MSTN	Cas9	Knockout by NHEJ – single genomic target	embryonic fibroblast	Capra hircus
+31000197	NULL	NULL	IGF2BP1	Cas9	Knockout by NHEJ – single genomic target	A172	Homo sapiens
+31000200	NULL	NULL	IGF2BP1	Cas9	Knockout by NHEJ – single genomic target	Peripheral Blood Mononuclear Cell|primary cell line|THP-1	Homo sapiens
+31006810	NULL	NULL	AR	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	CWR22-Rv1 cell	Homo sapiens
+31010479	NULL	NULL	magi2a|magi2b	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31013770	NULL	NULL	CDK5	SpCas9	Knockout by NHEJ – single genomic target	HepG2|MDAMB231|PC-3	Homo sapiens
+31016787	NULL	NULL	TRAF3	Cas9	Knockout by NHEJ – single genomic target	HepG2	Homo sapiens
+31020388	NULL	NULL	Spata13	Cas9	Knockout by NHEJ – single genomic target	embryo	Mus musculus
+31023625	NULL	NULL	Jund	Cas9	Knockout by NHEJ – single genomic target	MIN6	Mus musculus
+31028078	NULL	NULL	Dmd	Cas9	Dual sgRNA-directed deletion|Knockout by NHEJ – single genomic target	embryo	Mus musculus
+31028249	NULL	NULL	EGR1	Cas9	Knockout by NHEJ – single genomic target	THP-1	Homo sapiens
+31034471	NULL	NULL	AT5G18400	Cas9	Knockout by NHEJ – single genomic target	Flower	Arabidopsis thaliana
+31034517	NULL	NULL	Tbc1d4	Cas9	Knockout by NHEJ – single genomic target	embryonic fibroblast|zygote	Rattus norvegicus
+31036836	NULL	NULL	SHH	Cas9	Knockout by NHEJ – single genomic target	MCF-7|MDAMB231	Homo sapiens
+31037730	NULL	NULL	aub|bru1|CG5800|gw|mei-P26|piwi|tud|vas	Cas9	Insertion by HDR/MMEJ	embryo	Drosophila melanogaster
+31042701	NULL	NULL	Lhfp	Cas9	Knockout by NHEJ – single genomic target	zygote	Mus musculus
+31047915	NULL	NULL	dnaG|fabG	SpCas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	Whole Organism	Escherichia coli BW25113
+31048320	Gene Expression Omnibus	GeCKO v2	BAX|BCL2L11|EPHA7|FAU|KMT2C|MAD2L2|MAPK3|PDCD10|PMAIP1|PRSS21|PYCARD|TFDP1|TP53	Cas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	MOLM-13 cell|MV4-11 cell|OCI-AML2	Homo sapiens
+31048868	NULL	NULL	glra1|glra2|glra3|glra4a|glra4b	Cas9|Nanos-Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31053300	NULL	NULL	E2F7	Cas9	Knockout by NHEJ – single genomic target	SH-SY5Y	Homo sapiens
+31057603	NULL	NULL	ENSSSCG00000035293|IGF2	SpCas9|Streptococcus thermophilus Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	HEK293T|RCB0534 cell	Homo sapiens|Sus scrofa
+31065630	NULL	NULL	Nod2	Cas9	Knockout by NHEJ – single genomic target	zygote	Mus musculus
+31067316	NULL	NULL	Bcl11b	Cas9	Insertion by HDR/MMEJ	Embryonic Stem Cell	Mus musculus
+31073336	NULL	NULL	a|Axin1	Cas9	Insertion by HDR/MMEJ	zygote	Mus musculus
+31076567	NULL	GeCKO v2	NULL	Cas9	Knockout by NHEJ – treated sample	KATOIII	Homo sapiens
+31104942	NCBI Sequence Read Archive	GeCKO v2	Actbl2|Apc|Arnt|Arrdc3|Atp2b1|Axin1|Bnip3|Csde1|Ddx17|Ddx5|Fbxw7|Fgfr1|Fig4|Flcn|Frs2|Gapdhs|Lamtor2|Lamtor4|Nf2|Olfr478|Otx2|Ptpn11|Ptpn2|Rab7|Ranbp3|Rragc|Spns1|Spop|Tcf7l1|Tfe3|Trp53|Tsc1|Tsc2|Vps11|Vps16|Vps18|Vps29|Vps35|Vps39|Vps54|Zfp281	Cas9	Knockin by NHEJ – single genomic target|Knockout by NHEJ – proliferation|Knockout by NHEJ – treated sample	Embryonic Stem Cell	Mus musculus
+31105691	NULL	NULL	RELA	Cas9	Knockout by NHEJ – single genomic target	MDAMB231	Homo sapiens
+31119817	NULL	NULL	B2M	hSpCas9	Knockout by NHEJ – single genomic target	fetal cell line|fibroblast|primary cell line	Sus scrofa
+31123042	NULL	NULL	Zasp66|Zasp67	Cas9	Insertion by HDR/MMEJ	embryo	Drosophila melanogaster
+31123471	NULL	NULL	GP63-1	Cas9	Knockout by NHEJ – single genomic target	Whole Organism	Fusarium verticillioides 7600
+31126740	Journal website	GeCKO v2	CGAS|SLC19A1	Cas9	Knockout by NHEJ – single genomic target	CD14-positive monocyte|HEK293|HeLa|primary cell line|THP-1|U937	Homo sapiens
+31126900	NULL	NULL	CFTR	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	Caco-2	Homo sapiens
+31138881	NULL	NULL	TK1	hSpCas9	Insertion by HDR/MMEJ	HCT116|RKO	Homo sapiens
+31142372	NULL	NULL	DDX58	SpCas9	Knockout by NHEJ – single genomic target	Jurkat	Homo sapiens
+31142542	NULL	NULL	ENSORLG00000005573|yap1	Cas9	Knockout by NHEJ – single genomic target	embryo	Oryzias latipes
+31142788	NULL	NULL	RUNX2	Cas9	Knockout by NHEJ – single genomic target	A375	Homo sapiens
+31155292	NULL	NULL	Slc26a4	Cas9	Insertion by HDR/MMEJ	zygote	Mus musculus
+31156675	NULL	NULL	VIT_09s0002g00100	Plant optimised SpCas9	Knockout by NHEJ – single genomic target	callus|cell suspension culture	Vitis vinifera
+31164647	NULL	NULL	HBP1	SpCas9	Insertion by HDR/MMEJ	SAOS-2 cell	Homo sapiens
+31209054	NULL	NULL	MLPH	Cas9	Knockout by NHEJ – single genomic target	blastoderm	Coturnix japonica
+31235564	NULL	NULL	OsCKX9	Cas9	Knockout by NHEJ – single genomic target	callus	Oryza sativa Japonica Group
+31296872	NULL	NULL	tp63	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31297160	NULL	NULL	KASI	Cas9	Knockout by NHEJ – single genomic target	Flower	Arabidopsis thaliana
+31352406	NULL	NULL	CORT_0G04310	Cas9	Knockout by NHEJ – single genomic target	SK-MEL-28	Candida orthopsilosis Co 90-125
+31357516	NULL	NULL	HORVU1Hr1G042360|HORVU3Hr1G019850	Cas9	Knockout by NHEJ – single genomic target	plant embryo	Hordeum vulgare subsp. vulgare
+31432295	NULL	NULL	Pp3c14_11190|Pp3c17_8330|Pp3c1_35410	Cas9	Knockout by NHEJ – single genomic target	immortal mucosa of vagina-derived cell line cell|Plant Tissue, Cells	Physcomitrella patens
+31445429	NULL	NULL	Cnr1	Cas9-NLS	Knockout by NHEJ – single genomic target	embryo	Mus musculus
+31481684	NULL	NULL	KIT|SHANK3	hCas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	embryo|fibroblast	Callithrix jacchus
+31508509	ArrayExpress	GeCKO v2	NULL	Cas9	Knockout by NHEJ – treated sample	A2780	Homo sapiens
+31539770	NULL	NULL	IFNAR2	Cas9	Knockout by NHEJ – single genomic target	AK-D cell|Fcwf-4 cell	Felis catus
+31611562	NULL	NULL	GLYMA_06G145800	hSpCas9	Knockout by NHEJ – single genomic target	plant embryo	Glycine max
+31613223	NULL	NULL	per	Cas9	Knockout by NHEJ – single genomic target	zygote	Drosophila melanogaster
+31615983	NCBI BioProject	GeCKO v2	PHGDH	Cas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	MHCC97-L cell	Homo sapiens
+31620174	NULL	NULL	mc1R	hSpCas9	Dual sgRNA-directed deletion	zygote	Oryctolagus cuniculus
+31631510	NULL	NULL	HBB	SpCas9	Insertion by HDR/MMEJ	induced pluripotent stem cell	Homo sapiens
+31634348	NULL	NULL	dpy-10|rsp-4|sftb-1|uaf-2	Cas9	Insertion by HDR/MMEJ|Knockout by NHEJ – single genomic target	Gonad	Caenorhabditis elegans
+31636669	NULL	NULL	LPAR2|LPAR3|LPAR6	SpCas9	Knockout by NHEJ – single genomic target	ES-2 cell|OVCAR3	Homo sapiens
+31637422	NULL	NULL	pcyt2	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31641101	NULL	NULL	CSNK2A1	Cas9	Knockout by NHEJ – single genomic target	HuCCT-1 cell	Homo sapiens
+31645950	NULL	NULL	Solyc01g097440.3	Cas9	Knockout by NHEJ – single genomic target	cotyledon	Solanum lycopersicum
+31648989	NULL	GeCKO v2	NIPBL	Cas9	Knockout by NHEJ – proliferation|Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	HCT116|KATOIII|NUGC-3 cell|RCB2278 cell|SNU-1 cell|SNU-638	Homo sapiens
+31666960	NULL	NULL	AP1|SVP|TFL1	Cas9	Dual sgRNA-directed deletion	Flower	Arabidopsis thaliana
+31671177	NULL	NULL	OsHXK5	Cas9	Knockout by NHEJ – single genomic target	callus	Oryza sativa Japonica Group
+31673996	NULL	NULL	ghrl	Cas9	Insertion by HDR/MMEJ	embryo	Danio rerio
+31676125	NULL	NULL	Gt(ROSA)26Sor	Cas9	Insertion by HDR/MMEJ	zygote	Mus musculus
+31676591	NULL	NULL	B2M|SMCHD1	SpCas9	Dual sgRNA-directed deletion	HeLa|myoblast|primary cell line	Homo sapiens
+31677525	NULL	NULL	WWTR1	Cas9	Knockout by NHEJ – single genomic target	induced pluripotent stem cell	Homo sapiens
+31677793	NULL	NULL	XYLT2	Cas9	Knockout by NHEJ – single genomic target	HEK293	Homo sapiens
+31681410	NULL	NULL	anln|kmt2d|smchd1	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31683099	NULL	NULL	PDX1	Cas9	Insertion by HDR/MMEJ	induced pluripotent stem cell	Homo sapiens
+31693260	NULL	NULL	CPIJ005542	SpCas9	Knockout by NHEJ – single genomic target	embryo	Culex quinquefasciatus
+31694081	NULL	NULL	Dgat1	Cas9	Knockout by NHEJ – single genomic target	bone marrow-derived macrophage	Mus musculus
+31695778	NULL	NULL	CEACAM5	Cas9	Knockout by NHEJ – single genomic target	HEK293T|MKN45	Homo sapiens
+31696435	NULL	NULL	PLAC8	SpCas9	Knockout by NHEJ – single genomic target	HEK293T	Homo sapiens
+31720743	NULL	NULL	ENSOCUG00000001018	Cas9	Knockout by NHEJ – single genomic target	zygote	Oryctolagus cuniculus
+31729180	NULL	NULL	B2M	Cas9	Knockout by NHEJ – single genomic target	Umbilical Cord Blood-Derived Mesenchymal Stem Cells	Homo sapiens
+31743839	NULL	NULL	ERF	Cas9	Insertion by HDR/MMEJ	H1-hESC	Homo sapiens
+31794640	NULL	NULL	Rbm14	Cas9	Knockout by NHEJ – single genomic target	zygote	Mus musculus
+31796423	NULL	NULL	tnnt2a	Zebrafish optimized Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31797925	NULL	NULL	MCPH1	Cas9	Knockout by NHEJ – single genomic target	zygote	Macaca mulatta
+31804598	NULL	NULL	IGFLP	Cas9	Knockout by NHEJ – single genomic target	ovum	Bombyx mori
+31810603	NULL	NULL	YAP1	Cas9	Knockout by NHEJ – single genomic target	SW1990	Homo sapiens
+31819702	NULL	NULL	BIRC5	Cas9	Knockout by NHEJ – single genomic target	HL-60|KG1	Homo sapiens
+31821343	NULL	NULL	Ins1	Cas9	Insertion by HDR/MMEJ	embryo	Mus musculus
+31824524	NULL	NULL	GLYMA_06G207800	Dicotyledon optimised Cas9-NLS-NLS	Knockout by NHEJ – single genomic target	seedling	Glycine max
+31913353	Gene Expression Omnibus	GeCKO v2	ARID1A	Cas9|SpCas9	Knockout by NHEJ – proliferation|Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	MCF-7	Homo sapiens
+31914134	NULL	NULL	APOBEC3B	SpCas9	Insertion by HDR/MMEJ	AMO-1|RPMI8226|U266	Homo sapiens
+31914689	NULL	NULL	smyhc1	Cas9	Knockout by NHEJ – single genomic target	embryo	Danio rerio
+31921143	Gene Expression Omnibus	GeCKO v2	B2M|HLA-E|IFNGR2	Cas9	Knockout by NHEJ – single genomic target|Knockout by NHEJ – treated sample	K562	Homo sapiens

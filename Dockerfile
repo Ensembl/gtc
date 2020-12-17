@@ -21,7 +21,7 @@ RUN groupadd --gid $USER_GID $USERNAME \
 
 USER $USERNAME
 
-COPY gtc /home/$USERNAME/
-COPY dist /home/$USERNAME/dist
+COPY target/release/gtc /home/$USERNAME/
+COPY dist/gtc /home/$USERNAME/dist
 WORKDIR /home/$USERNAME
 CMD ROCKET_ENV=production ./gtc

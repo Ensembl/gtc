@@ -1,0 +1,29 @@
+{
+  "name": "gtc",
+  "version": "1.0.1",
+  "description": "GTC",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "author": "EMBL- European Bioinformatics Institute",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@nivo/bar": "^0.62.0",
+    "material-table": "^1.69.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
