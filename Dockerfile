@@ -1,8 +1,7 @@
 FROM ubuntu
 EXPOSE 8000/tcp
 
-ARG USERNAME***REMOVED***
-ARG USER_UID***REMOVED***
+# USERNAME, USER_UID and HTTP_PROXY must be specify with --build-args
 ARG USER_GID=$USER_UID
 
 #Setting Proxies
