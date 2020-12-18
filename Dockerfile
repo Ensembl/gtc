@@ -1,15 +1,17 @@
 FROM ubuntu
 EXPOSE 8000/tcp
 
-ARG USERNAME***REMOVED***
-ARG USER_UID***REMOVED***
+# USERNAME, USER_UID and HTTP_PROXY must be specify with --build-args
+ARG USER_UID
+ARG USERNAME
 ARG USER_GID=$USER_UID
 
+
 #Setting Proxies
-ARG HTTP_PROXY***REMOVED***
-ARG HTTPS_PROXY***REMOVED***
-ARG http_proxy***REMOVED***
-ARG https_proxy***REMOVED***
+ARG HTTP_PROXY
+ARG HTTPS_PROXY=$HTTP_PROXY
+ARG http_proxy=$HTTP_PROXY
+ARG https_proxy=$HTTP_PROXY
 
 # Create the user
 RUN groupadd --gid $USER_GID $USERNAME \
