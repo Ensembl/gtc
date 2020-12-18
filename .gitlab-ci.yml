@@ -5,6 +5,7 @@ image: docker:latest
 
 stages:
   - build
+  - deploy
 
 services:
   - docker:dind
@@ -14,7 +15,7 @@ variables:
   DOCKER_TLS_CERTDIR: ""
 
 
-build-du-test_docker_build:
+build-master:
   stage: build
   script:
      - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN $CI_REGISTRY
@@ -30,5 +31,13 @@ build-du-test_docker_build:
   after_script:
       - docker logout ${CI_REGISTRY}
   only:
-    - du/test_docker_build
+    - master
+
+hh-production:
+  stage: deploy
+  script:
+     - sed -i "s|TAG|$CI_COMMIT_SHA|g" k8s-deployment.yml
+     - export KUBECONFIG=/home/gitlab-runner/.kube/hh-wp-webadmin-01-team-admin &&  kubectl apply -f k8s-deployment.yml
+  only:
+    - master
 
